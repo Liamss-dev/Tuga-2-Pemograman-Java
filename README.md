@@ -1,3 +1,4 @@
+Tugas 2 Membuat Rest API Product Catalog dengan Spring Boot
 Running aplikasi java melalui postman 
 Test get all product melalui postman
 <img width="1512" height="982" alt="Tangkapan Layar 2026-10-22 pukul 15 42 11" src="https://github.com/user-attachments/assets/0a0856c9-6e2d-459c-8840-8f5f0f096038" />
