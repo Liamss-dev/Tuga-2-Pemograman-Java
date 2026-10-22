@@ -11,6 +11,8 @@ Test put product pada PRD - 01 melalui postman
 <img width="1512" height="982" alt="Tangkapan Layar 2026-10-22 pukul 15 45 56" src="https://github.com/user-attachments/assets/07907709-47ad-4573-acb8-e70d98f27230" />
 Test delete product pada PRD - 02 melalui postman
 <img width="1512" height="982" alt="Tangkapan Layar 2026-10-22 pukul 15 46 35" src="https://github.com/user-attachments/assets/7deb7a38-4787-4121-92e0-e69576767bcd" />
+Test get product melalui keyword atau search melalui postman
+<img width="1512" height="982" alt="Tangkapan Layar 2026-10-22 pukul 15 47 24" src="https://github.com/user-attachments/assets/6478a9b7-9b76-45c1-ae9b-f447712b53ee" />
 Muslim Athaurrahman 
 2411500388
 Pemrograman Web Java Kelompok AA
